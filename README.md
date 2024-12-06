@@ -1,17 +1,17 @@
 🌍 *[English](README.md) ∙ [简体中文](README.zh.md)*
 
-# DevToolset
+# BacklinksRun
 
-[DevToolset](https://DevToolset.net/) is an open-source database-free developer tools navigator
+[BacklinksRun](https://backlinks.run/) is an open-source database-free backlinks websites navigator
 
-## Star History
+<!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iamcorey/devtoolset&type=Date)](https://star-history.com/#iamcorey/devtoolset&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=iamcorey/BacklinksRun&type=Date)](https://star-history.com/#iamcorey/BacklinksRun&Date)
+ -->
 
+<!-- ## Preview
 
-## Preview
-
-![DevToolset](https://img.magicbox.tools/screenshot_img/devtoolset.png?version=081702)
+![BacklinksRun](https://img.magicbox.tools/screenshot_img/BacklinksRun.png?version=081702) -->
 
 ## Features
 
@@ -39,12 +39,12 @@
 ---
 
 
-## Adding New Developer Tools to DevToolset
+## Adding New Developer Tools to BacklinksRun
 
-Wanna add your site to DevToolset? 
+Wanna add your site to BacklinksRun? 
 
 ### Two ways to submit your site
-1. Submit your site via [GitHub Issues](https://github.com/iamcorey/devtoolset/issues) for a free dofollow link.
+1. Submit your site via [GitHub Issues](https://github.com/iamcorey/BacklinksRun/issues) for a free dofollow link.
 
 2. Or you can also submit your site by change the jsonc file in the `data/json/[locale]` folder and create a pull request.
 (Please read our [Submission Guide](/data/md/add-new-developer-tools.md) for details on how to request inclusion)
@@ -68,11 +68,11 @@ Follow the format below:
 
 
 
-## Deploy your own DevToolset
+## Deploy your own BacklinksRun
 
 ### Deploy on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FiAmCorey%2Fdevtoolset&project-name=devtoolset&repository-name=devtoolset&external-id=https%3A%2F%2Fgithub.com%2FiAmCoreye%2Fdevtoolset%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FiAmCorey%2FBacklinksRun&project-name=BacklinksRun&repository-name=BacklinksRun&external-id=https%3A%2F%2Fgithub.com%2FiAmCoreye%2FBacklinksRun%2Ftree%2Fmain)
 
 
 
@@ -88,8 +88,8 @@ Follow the format below:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/iAmCorey/devtoolset
-   cd devtoolset
+   git clone https://github.com/iAmCorey/BacklinksRun
+   cd BacklinksRun
    ```
 
 2. Install dependencies:
@@ -123,7 +123,7 @@ Follow the format below:
    yarn run dev
    ```
 
-Visit `http://localhost:3000` to see your DevToolset instance running locally.
+Visit `http://localhost:3000` to see your BacklinksRun instance running locally.
 
 ## Deployment
 
@@ -140,7 +140,7 @@ Visit `http://localhost:3000` to see your DevToolset instance running locally.
    - `NEXT_PUBLIC_GOOGLE_ADSENSE_ID`(Optional)
 4. Deploy the project.
 
-For a detailed deployment guide, please refer to our [Installation and Deployment Guide](/data/md/deploy-own-devtoolset.md).
+For a detailed deployment guide, please refer to our [Installation and Deployment Guide](/data/md/deploy-own-BacklinksRun.md).
 
 ## Usage
 ### Mannually
@@ -163,45 +163,21 @@ See [CHANGELOG.md](./CHANGELOG.md) for a detailed list of changes.
 
 ## Contributing
 
-We welcome contributions to DevToolset! Please read our [Contributing Guide](/data/md/add-new-developer-tools.md) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions to BacklinksRun! Please read our [Contributing Guide](/data/md/add-new-developer-tools.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-DevToolset is open-source software licensed under the [MIT license](./LICENSE).
+BacklinksRun is open-source software licensed under the [MIT license](./LICENSE).
 
 
 ## Acknowledgements
 
-DevToolset is built with the following tools and libraries:
+BacklinksRun is built with the following tools and libraries:
 - [GitBase](https://gitbase.app/) 
+- [DevToolset](https://devtoolset.net/) 
 - [Favicon.im](https://favicon.im/) 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn/UI](https://ui.shadcn.com/)
 
 We are grateful to the maintainers and contributors of these projects.
-
-## Contact Us
-
-If you want a secondary development, want to customize this project or want to collaborate with us, please contact us.
-
-Feel free to reach out if you have any questions or suggestions:
-
-- **Email:** [iamcoreychiu+devtoolset@gmail.com](mailto:iamcoreychiu+devtoolset@gmail.com)
-- **GitHub:** [iamcorey](https://github.com/iamcorey)
-- **jike:** `阿邱很行` [阿邱很行](https://okjk.co/mFe3NR)
-- **Wechat:** `iAmCor3y`(Please add a note when sending a friend request)
-<img src="https://img.magicbox.tools/screenshot_img/iamcoreywechat.jpg" alt="加我为好友" style="height: 200px; width: 200px">
-
-
-## Support 
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-If you want to donate or sponsor this project, it will be greatly appreciated.
-
-<a href='https://ko-fi.com/X8X2WF1V8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<img src="./public/buymeacoffee.jpg" alt="请阿邱喝咖啡" style="height: 200px; width: 200px">
-
-Thank you for your support!

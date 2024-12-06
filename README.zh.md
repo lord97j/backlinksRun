@@ -1,17 +1,17 @@
 🌍 *[English](README.md) ∙ [简体中文](README.zh.md)*
 
-# DevToolset
+# BacklinksRun
 
-[DevToolset](https://DevToolset.net/) 是一个开源的无数据库架构的开发者工具导航网站
+[BacklinksRun](https://BacklinksRun.net/) 是一个开源的无数据库架构的开发者工具导航网站
 
-## Star 历史
+<!-- ## Star 历史
 
-[![Star 历史图表](https://api.star-history.com/svg?repos=iamcorey/devtoolset&type=Date)](https://star-history.com/#iamcorey/devtoolset&Date)
+[![Star 历史图表](https://api.star-history.com/svg?repos=iamcorey/BacklinksRun&type=Date)](https://star-history.com/#iamcorey/BacklinksRun&Date)
 
 
 ## 预览
 
-![DevToolset](https://img.magicbox.tools/screenshot_img/devtoolset_zh.png?version=081702)
+![BacklinksRun](https://img.magicbox.tools/screenshot_img/BacklinksRun_zh.png?version=081702) -->
 
 ## 特性
 
@@ -40,12 +40,12 @@
 ---
 
 
-## 向 DevToolset 添加新的开发者工具
+## 向 BacklinksRun 添加新的开发者工具
 
-想要将您的网站添加到 DevToolset 吗？
+想要将您的网站添加到 BacklinksRun 吗？
 
 ### 提交您网站的两种方式
-1. 通过 [GitHub Issues](https://github.com/iamcorey/devtoolset/issues) 提交您的网站，获得免费的 dofollow 链接。
+1. 通过 [GitHub Issues](https://github.com/iamcorey/BacklinksRun/issues) 提交您的网站，获得免费的 dofollow 链接。
 
 2. 或者您也可以通过更改 `data/json/[locale]` 文件夹中的 jsonc 文件并创建拉取请求来提交您的网站。
 （请阅读我们的[投稿指南](/data/md/add-new-developer-tools.md)了解详情）
@@ -69,11 +69,11 @@
 
 
 
-## 部署您自己的 DevToolset
+## 部署您自己的 BacklinksRun
 
 ### 在 Vercel 上部署
 
-[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FiAmCorey%2Fdevtoolset&project-name=devtoolset&repository-name=devtoolset&external-id=https%3A%2F%2Fgithub.com%2FiAmCoreye%2Fdevtoolset%2Ftree%2Fmain)
+[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FiAmCorey%2FBacklinksRun&project-name=BacklinksRun&repository-name=BacklinksRun&external-id=https%3A%2F%2Fgithub.com%2FiAmCoreye%2FBacklinksRun%2Ftree%2Fmain)
 
 
 
@@ -89,8 +89,8 @@
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/iAmCorey/devtoolset
-   cd devtoolset
+   git clone https://github.com/iAmCorey/BacklinksRun
+   cd BacklinksRun
    ```
 
 2. 安装依赖：
@@ -124,7 +124,7 @@
    yarn run dev
    ```
 
-访问 `http://localhost:3000` 查看您的 DevToolset 实例在本地运行。
+访问 `http://localhost:3000` 查看您的 BacklinksRun 实例在本地运行。
 
 ## 部署
 
@@ -141,7 +141,7 @@
    - `NEXT_PUBLIC_GOOGLE_ADSENSE_ID`（可选）
 4. 部署项目。
 
-有关详细的部署指南，请参阅我们的[安装和部署指南](/data/md/deploy-own-devtoolset.md)。
+有关详细的部署指南，请参阅我们的[安装和部署指南](/data/md/deploy-own-BacklinksRun.md)。
 
 ## 使用
 ### 手动
@@ -164,17 +164,18 @@
 
 ## 贡献
 
-我们欢迎对 DevToolset 的贡献！请阅读我们的[投稿指南](/data/md/add-new-developer-tools.md)，了解我们的行为准则和提交拉取请求的流程。
+我们欢迎对 BacklinksRun 的贡献！请阅读我们的[投稿指南](/data/md/add-new-developer-tools.md)，了解我们的行为准则和提交拉取请求的流程。
 
 ## 许可证
 
-DevToolset 是根据 [MIT 许可证](./LICENSE) 授权的开源软件。
+BacklinksRun 是根据 [MIT 许可证](./LICENSE) 授权的开源软件。
 
 
 ## 致谢
 
-DevToolset 使用以下工具和库构建：
+BacklinksRun 使用以下工具和库构建：
 - [GitBase](https://gitbase.app/) 
+- [DevToolset](https://devtoolset.net/) 
 - [Favicon.im](https://favicon.im/) 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -182,27 +183,3 @@ DevToolset 使用以下工具和库构建：
 
 我们感谢这些项目的维护者和贡献者。
 
-## 联系我们
-
-如果您想进行二次开发、定制此项目或与我们合作，请联系我们。
-
-如果您有任何问题或建议，请随时联系：
-
-- **电子邮件：** [iamcoreychiu+devtoolset@gmail.com](mailto:iamcoreychiu+devtoolset@gmail.com)
-- **GitHub：** [iamcorey](https://github.com/iamcorey)
-- **即刻：** `阿邱很行` [阿邱很行](https://okjk.co/mFe3NR)
-- **微信：** `iAmCor3y`（添加好友时请注明）
-<img src="https://img.magicbox.tools/screenshot_img/iamcoreywechat.jpg" alt="加我为好友" style="height: 200px; width: 200px">
-
-
-## 支持 
-
-如果您觉得这个项目有帮助，请考虑在 GitHub 上给它一个 ⭐！
-
-如果您想捐赠或赞助这个项目，我们将非常感激。
-
-<a href='https://ko-fi.com/X8X2WF1V8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='在 ko-fi.com 上给我买杯咖啡' /></a>
-
-<img src="./public/buymeacoffee.jpg" alt="请阿邱喝咖啡" style="height: 200px; width: 200px">
-
-感谢您的支持！
